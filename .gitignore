@@ -1,0 +1,10 @@
+bin/
+gen/
+*.apk
+.idea/
+LocationAgent.iml
+ant.properties
+build.xml
+local.properties
+proguard-project.txt
+project.properties
