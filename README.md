@@ -1,4 +1,4 @@
-This is a project I did for a friend to coordinate the actions of ingress agents. Sends a jason with username & location to a server for displaying it on the intel map via a chrome extention.
+This is a project I did for a friend to coordinate the actions of ingress agents. Sends a json with username & location to a server for displaying it on the intel map via a chrome extention.
 Mainly a backup here, but perhaps could be helpful for other weird cases.
 
 <img src="https://raw.github.com/ligi/LocationAgent/master/launcher_web.png"/>
